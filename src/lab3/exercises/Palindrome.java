@@ -1,5 +1,5 @@
+package lab3.exercises;
 import java.util.Scanner;
-
 import ciic4020.stack.LinkedListStack;
 
 public class Palindrome 
